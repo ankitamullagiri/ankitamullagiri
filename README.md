@@ -1,13 +1,13 @@
-## Hi, I'm Ankita 👋
+## Hi, I'm Ankita! :)
 
 **MSc Business Analytics @ Warwick Business School** · ex-**Eli Lilly** · Electronics & Telecommunication engineer
 
 I work across data science, machine learning and AI engineering: from messy data and classical models to LLM pipelines and deployment.
 
-- 🔬 **Now:** Research Assistant building an NLP / LLM-powered intelligence platform for the UK PropTech sector (FastAPI, PostgreSQL + pgvector, semantic search)
-- 🎓 **MSc focus:** Generative AI & AI Systems · Data Science · Data Analytics
-- 🏥 **Interested in:** Building AI/DS solutions
-- 🌱 **Learning:** Azure, Docker, CI/CD with GitHub Actions
+-  **Now:** Research Assistant building an NLP / LLM-powered intelligence platform for the UK PropTech sector (FastAPI, PostgreSQL + pgvector, semantic search)
+-  **MSc focus:** Generative AI & AI Systems · Data Science · Data Analytics
+-  **Interested in:** Building AI/DS solutions
+-  **Learning:** Azure, Docker, CI/CD with GitHub Actions
 
 ### Featured projects
 
