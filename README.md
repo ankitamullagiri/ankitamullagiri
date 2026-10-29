@@ -5,9 +5,9 @@
 I work across data science, machine learning and AI engineering: from messy data and classical models to LLM pipelines and deployment.
 
 - 🔬 **Now:** Research Assistant building an NLP / LLM-powered intelligence platform for the UK PropTech sector (FastAPI, PostgreSQL + pgvector, semantic search)
-- 🎓 **MSc focus:** Supply Chain Analytics · Generative AI & AI Systems
-- 🏥 **Interested in:** healthcare analytics, predictive modelling, supply chain and marketing analytics, and signal processing + AI
-- 🌱 **Learning:** Docker, CI/CD with GitHub Actions, Azure
+- 🎓 **MSc focus:** · Generative AI & AI Systems and Data Science ; Data Analytics
+- 🏥 **Interested in:** Building AI/DS solutions
+- 🌱 **Learning:** Azure, Docker, CI/CD with GitHub Actions
 
 ### Featured projects
 
