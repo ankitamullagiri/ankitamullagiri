@@ -13,7 +13,7 @@ I work across data science, machine learning and AI engineering: from messy data
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Advanced RAG over NVIDIA's 10-K](https://github.com/ankitamullagiri/nvidia-10k-advanced-rag) · [**🔴 Live demo**](https://huggingface.co/spaces/nautankii/nvidia-10k-advanced-rag) | Query rewriting, hybrid BM25 + vector retrieval and cross-encoder reranking; grounding score 3.75 → 4.75 vs baseline | LlamaIndex · ChromaDB · Gemini |
+| [Advanced RAG over NVIDIA's 10-K](https://github.com/ankitamullagiri/nvidia-10k-advanced-rag) · [** Live demo**](https://huggingface.co/spaces/nautankii/nvidia-10k-advanced-rag) | Query rewriting, hybrid BM25 + vector retrieval and cross-encoder reranking; grounding score 3.75 → 4.75 vs baseline | LlamaIndex · ChromaDB · Gemini |
 | [AI Feedback & User Engagement (WildChat)](https://github.com/ankitamullagiri/wildchat-ai-feedback-engagement) | LLM-coded analysis of real chatbot conversations: explanatory feedback → 3.5× odds of engagement | OpenRouter · statsmodels · Hugging Face |
 | [Public Security System](https://github.com/ankitamullagiri/Public-Security-System-using-Deep-Learning) | Flags violence in video with transfer learning, using a leak-free per-video split | TensorFlow · MobileNetV2 · OpenCV |
 | [Stock Market Forecaster](https://github.com/ankitamullagiri/Stock-market-forecasting) | Interactive dashboard with a time-series-validated SVR forecast | Dash · Plotly · scikit-learn |
